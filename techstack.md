@@ -3,9 +3,9 @@
 ## Tech Stack
 highlanderkev/ejtos-react_budget_app is built on the following main stack:
 
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
@@ -16,9 +16,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 highlanderkev/ejtos-react_budget_app is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [highlanderkev/ejtos-react_budget_app](https://github.com/highlanderkev/ejtos-react_budget_app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|01/31/24 <br/>Report generated|
+|13<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
